@@ -1,4 +1,4 @@
-# Design Patter - Builder
+# Design Pattern - Builder
 O código desse repositório mostra o aplicação do Design Pattern "Builder" através de um exemplo na linguagem PHP
 no contexto da criação de personagens de RPG.
 
